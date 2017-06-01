@@ -13,6 +13,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	You can choose to add in the files you wish to track the change in and therefore do it a few pieces at a time to have logical breaks.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
