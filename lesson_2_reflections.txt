@@ -16,9 +16,18 @@ change?
 	You can choose to add in the files you wish to track the change in and therefore do it a few pieces at a time to have logical breaks.
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? 
+
+	You would use branches when you have a couple of different ideas of where the code might be going.  Maybe not all features are needed in the entire codebase.   Maybe you are completing some features sooner than others or your team works at different speeds.      
+
+How would branches help?
+
+	Branches help to organize code because they let you keep code working while trying out experimental ideas.
 
 How do the diagrams help you visualize the branch structure?
+
+	The diagrams are like trees so they physically represent branches.  We can see how the branches break off from the trunk or master.
+	
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
