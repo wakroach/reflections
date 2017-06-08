@@ -36,3 +36,9 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	in order to do the merge: checkout the branch you want to merge into then issue the git merge command.  if there are unresolved changes then you have to find where they are by opeing the file and searching for the <<<<<< HEAD line that git puts in the file.  You then analyze the code and make the changes to remove the conflicts.  Then you save and add to the workspace using git add.  then use git commit to finish it up.
+	Pro: auto merge can save time
+	Con: you aren't getting exposed to the code as much...
+
+	
