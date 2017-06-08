@@ -27,10 +27,12 @@ How would branches help?
 How do the diagrams help you visualize the branch structure?
 
 	The diagrams are like trees so they physically represent branches.  We can see how the branches break off from the trunk or master.
-	
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	you can use git merge to merge two branches.  The result is a single branch that includes the changes from both branches. We show it in a diagram to represent the two paths coming together and so the changes made to both branches are now included in the current branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
