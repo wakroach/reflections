@@ -16,3 +16,12 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	We just learned about git fetch and git merge origin/master master as a way to get the most recent version of a remot repository onto the local repository and then the ability to do a manual merge with conflicts.  The benefit of having the copy is it makes the manual merge easy (the same as when we fixed conflicts on branches).
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	We just learned how to create a pull request and make comments.
+	You could collaborate using google drive and some standards for what is the most current version but that would require a lot of work.  You could divide a project into seperate parts that don't interact and then have a manager merge them all at the end.  You could create stub classes and then have subteams work on them.
+	In general I can't see how anyone would not use this system now that I have seen it in action
+
+	
